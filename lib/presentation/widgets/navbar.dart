@@ -173,9 +173,9 @@ class _NavbarState extends State<Navbar> {
         borderRadius: BorderRadius.vertical(top: Radius.circular(20)),
       ),
       builder: (ctx) => Container(
-        padding: const EdgeInsets.all(AppSpacing.lg),
+        padding: const EdgeInsets.all(AppSpacing.sm),
         child: Column(
-          mainAxisSize: MainAxisSize.min,
+          mainAxisSize: MainAxisSize.max,
           children: [
             Container(
               width: 40,
@@ -203,7 +203,6 @@ class _NavbarState extends State<Navbar> {
                   color: AppColors.textTertiary,
                 ),
               ),
-            const SizedBox(height: AppSpacing.md),
           ],
         ),
       ),
