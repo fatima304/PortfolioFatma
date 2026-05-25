@@ -1,16 +1,47 @@
-# portfolio
+# 🚀 Flutter Portfolio – Fatma
 
-A new Flutter project.
+A modern, responsive **Flutter Web & Mobile Portfolio** showcasing my skills, projects, and experience as a Flutter Developer.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Overview
 
-A few resources to get you started if this is your first Flutter project:
+This portfolio is built to present my work in a clean, interactive, and performance-focused way.
+It highlights my expertise in Flutter development, UI/UX design, and building scalable applications.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The project is fully responsive and optimized for **mobile, tablet, and web**.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧠 Features
+
+* 🌐 Fully responsive design (Web / Mobile / Tablet)
+* ⚡ Smooth animations and transitions
+* 🎯 Clean and modern UI
+* 📱 Mobile-friendly navigation (Bottom Sheet menu)
+* 🧩 Modular and scalable architecture
+* 🎨 Custom design system (colors, typography, spacing)
+* 🔥 Performance optimized Flutter Web build
+
+---
+
+## 🛠️ Tech Stack
+
+* **Flutter**
+* **Dart**
+* Material Design
+* Custom UI System
+* Responsive Layouts
+
+---
+
+## 🌍 Live Demo
+
+👉 [View Portfolio]()
+
+---
+
+## 💡 About Me
+
+I’m a Flutter Developer passionate about building beautiful, fast, and scalable applications.
+I enjoy turning ideas into real products with clean architecture and great user experience.
